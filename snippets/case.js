@@ -108,16 +108,16 @@ function switchcase(infor, client, xxx) {
 
       break;
 
- //   case "promote":
- //   case "demote":
- //   case "kick":
- //   case "grouplink":
- //   case "changedp":
+   case "promote":
+   case "demote":
+   case "kick":
+   case "grouplink":
+   case "changedp":
     case "botleave":
- //   case "close":
-  //  case "open":
-   // case "add":
-   // case "purge":
+   case "close":
+   case "open":
+   case "add":
+   case "purge":
     case "tagall":
     case "ban":
     case "unban":
